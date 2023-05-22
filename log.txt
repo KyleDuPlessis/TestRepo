@@ -1,0 +1,17 @@
+commit d00eadd4a3ecbacdef4d11be7e7b46aadc59bd7b
+Author: Kyle du Plessis <kduplessis@platsoft.net>
+Date:   Mon May 22 14:11:16 2023 +0200
+
+    Modified html file
+
+commit 0ac8f09cf1c38d32f62b0c5aa270d49a8b7aefbf
+Author: Kyle du Plessis <kduplessis@platsoft.net>
+Date:   Mon May 22 11:39:12 2023 +0200
+
+    Added sample HTML file that contain basic syntax
+
+commit 17b38a6b6876cbee030951311c067d84ffc38264
+Author: Kyle du Plessis <kyleduplessis@gmail.com>
+Date:   Mon May 22 11:30:29 2023 +0200
+
+    Initial commit
